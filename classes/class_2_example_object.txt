@@ -1,0 +1,18 @@
+Object: Chicken Tender Basket
+
+Attributes:
+menuPrice : 9.99
+foodCost : 2.85
+calories : 1100
+menuLocation : "Entree"
+
+
+Methods:
+calculateProfit
+  7.14
+lowCal
+  false
+moveMenuLocation
+  menuLocation : "Entree" to menuLocation : "Kids menu"
+changePrice
+  menuPrice: 9.99 to menuPrice: 7.00
