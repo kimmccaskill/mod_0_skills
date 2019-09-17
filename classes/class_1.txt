@@ -1,0 +1,13 @@
+Class: Employee
+
+Attributes:
+hireDate (date)
+position (string)
+hourlyWage (float)
+inTraining (boolean)
+
+Methods:
+getPromotion (change position and increase hourlyWage)
+finishTraining (changes inTraining to false after hireDate plus 90 days)
+getRaise (increases hourlyWage)
+employementLength (takes current date - hireDate)
