@@ -7,7 +7,7 @@ hourlyWage (float)
 inTraining (boolean)
 
 Methods:
-getPromotion (change position and increase hourlyWage)
+getPromotion (change position and increase hourlyWage + 5)
 finishTraining (changes inTraining to false after hireDate plus 90 days)
-getRaise (increases hourlyWage)
+getRaise (increases hourlyWage + 1)
 employementLength (takes current date - hireDate)
