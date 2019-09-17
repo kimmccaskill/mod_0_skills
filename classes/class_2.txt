@@ -1,0 +1,14 @@
+Class: Menu Item
+
+Attributes:
+menuPrice (float)
+foodCost (float)
+calories (integer)
+menuLocation (string)
+
+
+Methods:
+calculateProfit (subtract foodCost from menuPrice)
+lowCal (checks if calories <= 800)
+moveMenuLocation (changes items menuLocation)
+changePrice (changes menuPrice)
