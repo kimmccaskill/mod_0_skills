@@ -1,0 +1,18 @@
+Object: Jeff
+
+Attributes:
+hireDate : 2019-09-01
+position : "Server"
+hourlyWage : 9
+inTraining : true
+
+Methods:
+getPromotion
+  position : "Supervisor"
+  hourlyWage : 14
+finishTraining
+  error due to not having worked 90 days
+getRaise
+  hourlyWage : 15
+employementLength
+  15 days
